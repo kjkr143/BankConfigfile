@@ -5,7 +5,7 @@ accounts:
   message: "Welcome to JagadeeshBank accounts related local APIs "
   contactDetails:
     name: "John Doe - Developer"
-    email: "e809d9160b3b6568ebf3db289a558cc98a8394a4664d7a1c629d36f3bf6a1770b38a79c1897081c5885a5306ac025316"
+    email: "{cipher}e809d9160b3b6568ebf3db289a558cc98a8394a4664d7a1c629d36f3bf6a1770b38a79c1897081c5885a5306ac025316"
   onCallSupport:
     - (555) 555-1234
     - (555) 523-1345
